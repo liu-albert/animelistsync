@@ -1,1 +1,1 @@
-# animelistdiff
+# animelistsync
